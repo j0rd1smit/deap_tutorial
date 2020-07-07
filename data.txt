@@ -1,0 +1,57 @@
+Natural Language Modelling for TV shows
+- Thijs Raijmakers 			
+- Katja Schmahl 			
+- David Happel 				
+- Pia Keukeleire 			
+- Thomas van Tussenbroek
+Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints
+- Stef Siekman			
+- Timon Bestebreur 		
+- Arjen Ferwerda 		
+- Noah Jadoenathmisier 	
+- Andor Michels 		
+- Jeroen van Dijk 		
+New Generation Iterative Prisoner's Dilemma
+- Beryl van Gelderen	
+- Louis Gevers 			
+- Gijs de Jong 			
+- Sterre Lutz 			
+- Eric van der Toorn 	
+Ripple: Improving a Major Decentralized Money Transfer Network
+- Sengim Karayalain 	
+- Marijn Roelvink 		
+- Francis Behnen 		
+- Wolf Bubberman 		
+Conversational search
+- Sophie Walboomers 		
+- Rohan Sobha 				
+- Louise Leibbrandt 		
+- Kirti Biharie 			
+- Owen Versteeg 		
+Learning and Decision Making for Traffic Control
+- Cian Jansen 			
+- Emanuel Kuhn 			
+- Chris van der Werf 	
+- Yaniv Oren 			
+- Pepijn Tersmette 		
+Optimizing Multiple Deep Learning Models on Edge Devices
+- Simon Tulling		
+- Hans Brouwer 		
+- Wouter van Lil 	
+- Yohan Runhaar 	
+- Jeroen Galjaard 	
+Machine learning-based Side-channel Analysis
+- Daan den Ouden 	
+- Doreen Mulder 	
+- Jim Kok 			
+- Johannes IJpma 	
+- Djoshua Moonen 	
+Can deep learning recognize Lego pieces?
+- Rembrandt Oltmans 	
+- Berend Kam 			
+- Nishad Tahur 			
+- Hiba Abderrazik 		
+- David Cian 			
+TestPlus: AI-based Test Generation for RESTful APIs
+- Dimitri Stallenberg	
+- Jeroen Kappe

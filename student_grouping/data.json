@@ -1,0 +1,950 @@
+{
+  "projects": [
+    {
+      "name": "Can deep learning recognize Lego pieces?",
+      "max_n_students": 5
+    },
+    {
+      "name": "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints",
+      "max_n_students": 5
+    },
+    {
+      "name": "Learning and Decision Making for Traffic Control",
+      "max_n_students": 5
+    },
+    {
+      "name": "Optimizing Multiple Deep Learning Models on Edge Devices",
+      "max_n_students": 5
+    },
+    {
+      "name": "TestPlus: AI-based Test Generation for RESTful APIs",
+      "max_n_students": 5
+    },
+    {
+      "name": "Ripple: Improving a Major Decentralized Money Transfer Network",
+      "max_n_students": 5
+    },
+    {
+      "name": "Natural Language Modelling for TV shows",
+      "max_n_students": 7
+    },
+    {
+      "name": "Optimal usage of compute clusters by chaining short jobs",
+      "max_n_students": 5
+    },
+    {
+      "name": "Understanding the role of abstractions in object-oriented software systems",
+      "max_n_students": 5
+    },
+    {
+      "name": "Conversational search",
+      "max_n_students": 5
+    },
+    {
+      "name": "Parsing Performance in Practice",
+      "max_n_students": 5
+    },
+    {
+      "name": "Machine learning-based Side-channel Analysis",
+      "max_n_students": 5
+    },
+    {
+      "name": "Project Ontologies for measurement instruments",
+      "max_n_students": 5
+    },
+    {
+      "name": "New Generation Iterative Prisoner's Dilemma",
+      "max_n_students": 5
+    }
+  ],
+  "students": [
+    {
+      "rating_per_project_name": {
+        "New Generation Iterative Prisoner's Dilemma": 1,
+        "Project Ontologies for measurement instruments": 2,
+        "Can deep learning recognize Lego pieces?": 3,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 4,
+        "Conversational search": 5,
+        "Natural Language Modelling for TV shows": 6,
+        "Parsing Performance in Practice": 7,
+        "Learning and Decision Making for Traffic Control": 8,
+        "Optimal usage of compute clusters by chaining short jobs": 9,
+        "Understanding the role of abstractions in object-oriented software systems": 10,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 11,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 12,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 13,
+        "Machine learning-based Side-channel Analysis": 14
+      },
+      "name": "Hiba Abderrazik"
+    },
+    {
+      "rating_per_project_name": {
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 1,
+        "Understanding the role of abstractions in object-oriented software systems": 2,
+        "Parsing Performance in Practice": 3,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 4,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 5,
+        "New Generation Iterative Prisoner's Dilemma": 6,
+        "Learning and Decision Making for Traffic Control": 7,
+        "Conversational search": 8,
+        "Natural Language Modelling for TV shows": 9,
+        "Can deep learning recognize Lego pieces?": 10,
+        "Project Ontologies for measurement instruments": 11,
+        "Optimal usage of compute clusters by chaining short jobs": 12,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 13,
+        "Machine learning-based Side-channel Analysis": 14
+      },
+      "name": "Francis Behnen"
+    },
+    {
+      "rating_per_project_name": {
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 1,
+        "Understanding the role of abstractions in object-oriented software systems": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 4,
+        "Parsing Performance in Practice": 5,
+        "Conversational search": 6,
+        "Optimal usage of compute clusters by chaining short jobs": 7,
+        "Project Ontologies for measurement instruments": 8,
+        "Can deep learning recognize Lego pieces?": 9,
+        "Machine learning-based Side-channel Analysis": 10,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 11,
+        "Natural Language Modelling for TV shows": 12,
+        "Learning and Decision Making for Traffic Control": 13,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 14
+      },
+      "name": "Timon Bestebreur"
+    },
+    {
+      "rating_per_project_name": {
+        "Optimal usage of compute clusters by chaining short jobs": 1,
+        "Can deep learning recognize Lego pieces?": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Conversational search": 4,
+        "Understanding the role of abstractions in object-oriented software systems": 5,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 6,
+        "Machine learning-based Side-channel Analysis": 7,
+        "Project Ontologies for measurement instruments": 8,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 9,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 10,
+        "Parsing Performance in Practice": 11,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 12,
+        "Learning and Decision Making for Traffic Control": 13,
+        "Natural Language Modelling for TV shows": 14
+      },
+      "name": "Kirti Biharie"
+    },
+    {
+      "rating_per_project_name": {
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 1,
+        "Machine learning-based Side-channel Analysis": 2,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 3,
+        "Optimal usage of compute clusters by chaining short jobs": 4,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 5,
+        "Parsing Performance in Practice": 6,
+        "Learning and Decision Making for Traffic Control": 7,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 8,
+        "Natural Language Modelling for TV shows": 9,
+        "Conversational search": 10,
+        "Can deep learning recognize Lego pieces?": 11,
+        "New Generation Iterative Prisoner's Dilemma": 12,
+        "Understanding the role of abstractions in object-oriented software systems": 13,
+        "Project Ontologies for measurement instruments": 14
+      },
+      "name": "Hans Brouwer"
+    },
+    {
+      "rating_per_project_name": {
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 1,
+        "Machine learning-based Side-channel Analysis": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Learning and Decision Making for Traffic Control": 4,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 5,
+        "Can deep learning recognize Lego pieces?": 6,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 7,
+        "Optimal usage of compute clusters by chaining short jobs": 8,
+        "Parsing Performance in Practice": 9,
+        "Project Ontologies for measurement instruments": 10,
+        "Conversational search": 11,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 12,
+        "Understanding the role of abstractions in object-oriented software systems": 13,
+        "Natural Language Modelling for TV shows": 14
+      },
+      "name": "Wolf Bubberman"
+    },
+    {
+      "rating_per_project_name": {
+        "New Generation Iterative Prisoner's Dilemma": 1,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 2,
+        "Can deep learning recognize Lego pieces?": 3,
+        "Machine learning-based Side-channel Analysis": 4,
+        "Natural Language Modelling for TV shows": 5,
+        "Project Ontologies for measurement instruments": 6,
+        "Conversational search": 7,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 8,
+        "Understanding the role of abstractions in object-oriented software systems": 9,
+        "Learning and Decision Making for Traffic Control": 10,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 11,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 12,
+        "Parsing Performance in Practice": 13,
+        "Optimal usage of compute clusters by chaining short jobs": 14
+      },
+      "name": "David Cian"
+    },
+    {
+      "rating_per_project_name": {
+        "Learning and Decision Making for Traffic Control": 1,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Can deep learning recognize Lego pieces?": 4,
+        "Natural Language Modelling for TV shows": 5,
+        "Machine learning-based Side-channel Analysis": 6,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 7,
+        "Project Ontologies for measurement instruments": 8,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 9,
+        "Parsing Performance in Practice": 10,
+        "Optimal usage of compute clusters by chaining short jobs": 11,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 12,
+        "Conversational search": 13,
+        "Understanding the role of abstractions in object-oriented software systems": 14
+      },
+      "name": "Arjen Ferwerda"
+    },
+    {
+      "rating_per_project_name": {
+        "Optimal usage of compute clusters by chaining short jobs": 1,
+        "Learning and Decision Making for Traffic Control": 2,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 3,
+        "Can deep learning recognize Lego pieces?": 4,
+        "Understanding the role of abstractions in object-oriented software systems": 6,
+        "New Generation Iterative Prisoner's Dilemma": 7,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 8,
+        "Machine learning-based Side-channel Analysis": 9,
+        "Project Ontologies for measurement instruments": 10,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 11,
+        "Conversational search": 12,
+        "Parsing Performance in Practice": 13,
+        "Natural Language Modelling for TV shows": 14
+      },
+      "name": "Jeroen Galjaard"
+    },
+    {
+      "rating_per_project_name": {
+        "New Generation Iterative Prisoner's Dilemma": 1,
+        "Can deep learning recognize Lego pieces?": 2,
+        "Natural Language Modelling for TV shows": 3,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 4,
+        "Conversational search": 5,
+        "Learning and Decision Making for Traffic Control": 6,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 7,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 8,
+        "Machine learning-based Side-channel Analysis": 9,
+        "Parsing Performance in Practice": 10,
+        "Project Ontologies for measurement instruments": 11,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 12,
+        "Optimal usage of compute clusters by chaining short jobs": 13,
+        "Understanding the role of abstractions in object-oriented software systems": 14
+      },
+      "name": "Louis Gevers"
+    },
+    {
+      "rating_per_project_name": {
+        "Learning and Decision Making for Traffic Control": 1,
+        "Natural Language Modelling for TV shows": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Can deep learning recognize Lego pieces?": 4,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 5,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 6,
+        "Conversational search": 7,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 8,
+        "Machine learning-based Side-channel Analysis": 9,
+        "Optimal usage of compute clusters by chaining short jobs": 10,
+        "Parsing Performance in Practice": 11,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 12,
+        "Project Ontologies for measurement instruments": 13,
+        "Understanding the role of abstractions in object-oriented software systems": 14
+      },
+      "name": "David Happel"
+    },
+    {
+      "rating_per_project_name": {
+        "Natural Language Modelling for TV shows": 1,
+        "Learning and Decision Making for Traffic Control": 2,
+        "Can deep learning recognize Lego pieces?": 3,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 4,
+        "Machine learning-based Side-channel Analysis": 5,
+        "Project Ontologies for measurement instruments": 6,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 7,
+        "Conversational search": 8,
+        "Parsing Performance in Practice": 9,
+        "Optimal usage of compute clusters by chaining short jobs": 10,
+        "New Generation Iterative Prisoner's Dilemma": 11,
+        "Understanding the role of abstractions in object-oriented software systems": 12,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 13
+      },
+      "name": "Johannes IJpma"
+    },
+    {
+      "rating_per_project_name": {
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 1,
+        "Can deep learning recognize Lego pieces?": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Learning and Decision Making for Traffic Control": 4,
+        "Machine learning-based Side-channel Analysis": 5,
+        "Project Ontologies for measurement instruments": 6,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 7,
+        "Conversational search": 8,
+        "Parsing Performance in Practice": 9,
+        "Optimal usage of compute clusters by chaining short jobs": 10,
+        "Understanding the role of abstractions in object-oriented software systems": 11,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 12,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 13,
+        "Natural Language Modelling for TV shows": 14
+      },
+      "name": "Noah Jadoenathmisier"
+    },
+    {
+      "rating_per_project_name": {
+        "Learning and Decision Making for Traffic Control": 1,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 2,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 3,
+        "Can deep learning recognize Lego pieces?": 4,
+        "New Generation Iterative Prisoner's Dilemma": 5,
+        "Optimal usage of compute clusters by chaining short jobs": 6,
+        "Conversational search": 7,
+        "Understanding the role of abstractions in object-oriented software systems": 8,
+        "Project Ontologies for measurement instruments": 9,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 10,
+        "Machine learning-based Side-channel Analysis": 11,
+        "Natural Language Modelling for TV shows": 12,
+        "Parsing Performance in Practice": 13
+      },
+      "name": "Cian Jansen"
+    },
+    {
+      "rating_per_project_name": {
+        "Can deep learning recognize Lego pieces?": 1,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 2,
+        "Learning and Decision Making for Traffic Control": 3,
+        "Machine learning-based Side-channel Analysis": 4,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 5,
+        "Optimal usage of compute clusters by chaining short jobs": 6,
+        "Natural Language Modelling for TV shows": 7,
+        "New Generation Iterative Prisoner's Dilemma": 8,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 9,
+        "Parsing Performance in Practice": 10,
+        "Conversational search": 11,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 12,
+        "Understanding the role of abstractions in object-oriented software systems": 13,
+        "Project Ontologies for measurement instruments": 14
+      },
+      "name": "Berend Kam"
+    },
+    {
+      "rating_per_project_name": {
+        "Natural Language Modelling for TV shows": 1,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 2,
+        "Conversational search": 3,
+        "Can deep learning recognize Lego pieces?": 4,
+        "Understanding the role of abstractions in object-oriented software systems": 5,
+        "Learning and Decision Making for Traffic Control": 6,
+        "Optimal usage of compute clusters by chaining short jobs": 7,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 8,
+        "Project Ontologies for measurement instruments": 9,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 10,
+        "Machine learning-based Side-channel Analysis": 11,
+        "New Generation Iterative Prisoner's Dilemma": 12,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 13,
+        "Parsing Performance in Practice": 14
+      },
+      "name": "Jeroen Kappe"
+    },
+    {
+      "rating_per_project_name": {
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 1,
+        "Machine learning-based Side-channel Analysis": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Optimal usage of compute clusters by chaining short jobs": 4,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 5,
+        "Learning and Decision Making for Traffic Control": 6,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 7,
+        "Project Ontologies for measurement instruments": 8,
+        "Conversational search": 9,
+        "Parsing Performance in Practice": 10,
+        "Natural Language Modelling for TV shows": 11,
+        "Understanding the role of abstractions in object-oriented software systems": 12,
+        "Can deep learning recognize Lego pieces?": 13,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 14
+      },
+      "name": "Sengim Karayalain"
+    },
+    {
+      "rating_per_project_name": {
+        "Natural Language Modelling for TV shows": 1,
+        "New Generation Iterative Prisoner's Dilemma": 2,
+        "Learning and Decision Making for Traffic Control": 3,
+        "Project Ontologies for measurement instruments": 4,
+        "Conversational search": 5,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 6,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 7,
+        "Can deep learning recognize Lego pieces?": 8,
+        "Machine learning-based Side-channel Analysis": 9,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 10,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 11,
+        "Parsing Performance in Practice": 12,
+        "Optimal usage of compute clusters by chaining short jobs": 13,
+        "Understanding the role of abstractions in object-oriented software systems": 14
+      },
+      "name": "Pia Keukeleire"
+    },
+    {
+      "rating_per_project_name": {
+        "New Generation Iterative Prisoner's Dilemma": 1,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 2,
+        "Project Ontologies for measurement instruments": 3,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 4,
+        "Machine learning-based Side-channel Analysis": 5,
+        "Can deep learning recognize Lego pieces?": 6,
+        "Learning and Decision Making for Traffic Control": 7,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 8,
+        "Optimal usage of compute clusters by chaining short jobs": 9,
+        "Conversational search": 10,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 11,
+        "Natural Language Modelling for TV shows": 12,
+        "Understanding the role of abstractions in object-oriented software systems": 13,
+        "Parsing Performance in Practice": 14
+      },
+      "name": "Jim Kok"
+    },
+    {
+      "rating_per_project_name": {
+        "Learning and Decision Making for Traffic Control": 1,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 2,
+        "Machine learning-based Side-channel Analysis": 3,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 4,
+        "New Generation Iterative Prisoner's Dilemma": 5,
+        "Natural Language Modelling for TV shows": 6,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 7,
+        "Can deep learning recognize Lego pieces?": 8,
+        "Optimal usage of compute clusters by chaining short jobs": 9,
+        "Understanding the role of abstractions in object-oriented software systems": 11,
+        "Conversational search": 12,
+        "Parsing Performance in Practice": 13,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 14,
+        "Project Ontologies for measurement instruments": 15
+      },
+      "name": "Emanuel Kuhn"
+    },
+    {
+      "rating_per_project_name": {
+        "Conversational search": 1,
+        "Project Ontologies for measurement instruments": 2,
+        "Understanding the role of abstractions in object-oriented software systems": 3,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 4,
+        "Optimal usage of compute clusters by chaining short jobs": 5,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 6,
+        "Learning and Decision Making for Traffic Control": 7,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 8,
+        "Can deep learning recognize Lego pieces?": 9,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 10,
+        "Machine learning-based Side-channel Analysis": 11,
+        "Parsing Performance in Practice": 12,
+        "New Generation Iterative Prisoner's Dilemma": 13,
+        "Natural Language Modelling for TV shows": 14
+      },
+      "name": "Louise Leibbrandt"
+    },
+    {
+      "rating_per_project_name": {
+        "New Generation Iterative Prisoner's Dilemma": 1,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 2,
+        "Can deep learning recognize Lego pieces?": 3,
+        "Conversational search": 4,
+        "Parsing Performance in Practice": 5,
+        "Understanding the role of abstractions in object-oriented software systems": 6,
+        "Optimal usage of compute clusters by chaining short jobs": 7,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 8,
+        "Machine learning-based Side-channel Analysis": 9,
+        "Project Ontologies for measurement instruments": 10,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 11,
+        "Learning and Decision Making for Traffic Control": 12,
+        "Natural Language Modelling for TV shows": 13,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 14
+      },
+      "name": "Sterre Lutz"
+    },
+    {
+      "rating_per_project_name": {
+        "New Generation Iterative Prisoner's Dilemma": 1,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 2,
+        "Optimal usage of compute clusters by chaining short jobs": 3,
+        "Can deep learning recognize Lego pieces?": 4,
+        "Learning and Decision Making for Traffic Control": 5,
+        "Understanding the role of abstractions in object-oriented software systems": 6,
+        "Project Ontologies for measurement instruments": 7,
+        "Parsing Performance in Practice": 8,
+        "Machine learning-based Side-channel Analysis": 9,
+        "Conversational search": 10,
+        "Natural Language Modelling for TV shows": 11,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 12,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 13,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 14
+      },
+      "name": "Andor Michels"
+    },
+    {
+      "rating_per_project_name": {
+        "New Generation Iterative Prisoner's Dilemma": 1,
+        "Learning and Decision Making for Traffic Control": 2,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 3,
+        "Machine learning-based Side-channel Analysis": 4,
+        "Understanding the role of abstractions in object-oriented software systems": 5,
+        "Can deep learning recognize Lego pieces?": 6,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 7,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 8,
+        "Natural Language Modelling for TV shows": 9,
+        "Project Ontologies for measurement instruments": 10,
+        "Optimal usage of compute clusters by chaining short jobs": 11,
+        "Conversational search": 12,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 13,
+        "Parsing Performance in Practice": 14
+      },
+      "name": "Djoshua Moonen"
+    },
+    {
+      "rating_per_project_name": {
+        "Learning and Decision Making for Traffic Control": 1,
+        "Can deep learning recognize Lego pieces?": 2,
+        "Machine learning-based Side-channel Analysis": 3,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 4,
+        "Conversational search": 5,
+        "Natural Language Modelling for TV shows": 6,
+        "Understanding the role of abstractions in object-oriented software systems": 7,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 8,
+        "Project Ontologies for measurement instruments": 9,
+        "Optimal usage of compute clusters by chaining short jobs": 10,
+        "New Generation Iterative Prisoner's Dilemma": 11,
+        "Parsing Performance in Practice": 12,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 13
+      },
+      "name": "Doreen Mulder"
+    },
+    {
+      "rating_per_project_name": {
+        "Can deep learning recognize Lego pieces?": 1,
+        "Optimal usage of compute clusters by chaining short jobs": 2,
+        "Learning and Decision Making for Traffic Control": 3,
+        "New Generation Iterative Prisoner's Dilemma": 4,
+        "Understanding the role of abstractions in object-oriented software systems": 5,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 6,
+        "Conversational search": 7,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 8,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 9,
+        "Parsing Performance in Practice": 10,
+        "Project Ontologies for measurement instruments": 11,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 12,
+        "Machine learning-based Side-channel Analysis": 13,
+        "Natural Language Modelling for TV shows": 14
+      },
+      "name": "Rembrandt Oltmans"
+    },
+    {
+      "rating_per_project_name": {
+        "Learning and Decision Making for Traffic Control": 1,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Can deep learning recognize Lego pieces?": 4,
+        "Natural Language Modelling for TV shows": 5,
+        "Machine learning-based Side-channel Analysis": 6,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 7,
+        "Project Ontologies for measurement instruments": 8,
+        "Parsing Performance in Practice": 9,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 10,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 11,
+        "Conversational search": 12,
+        "Optimal usage of compute clusters by chaining short jobs": 13,
+        "Understanding the role of abstractions in object-oriented software systems": 14
+      },
+      "name": "Yaniv Oren"
+    },
+    {
+      "rating_per_project_name": {
+        "New Generation Iterative Prisoner's Dilemma": 1,
+        "Learning and Decision Making for Traffic Control": 2,
+        "Conversational search": 3,
+        "Optimal usage of compute clusters by chaining short jobs": 4,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 5,
+        "Natural Language Modelling for TV shows": 6,
+        "Parsing Performance in Practice": 7,
+        "Can deep learning recognize Lego pieces?": 8,
+        "Machine learning-based Side-channel Analysis": 9,
+        "Project Ontologies for measurement instruments": 10,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 11,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 12,
+        "Understanding the role of abstractions in object-oriented software systems": 13
+      },
+      "name": "Thijs Raijmakers"
+    },
+    {
+      "rating_per_project_name": {
+        "Learning and Decision Making for Traffic Control": 1,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 2,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 3,
+        "New Generation Iterative Prisoner's Dilemma": 4,
+        "Understanding the role of abstractions in object-oriented software systems": 5,
+        "Parsing Performance in Practice": 6,
+        "Natural Language Modelling for TV shows": 7,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 8,
+        "Optimal usage of compute clusters by chaining short jobs": 9,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 10,
+        "Machine learning-based Side-channel Analysis": 11,
+        "Can deep learning recognize Lego pieces?": 12,
+        "Project Ontologies for measurement instruments": 13,
+        "Conversational search": 14
+      },
+      "name": "Marijn Roelvink"
+    },
+    {
+      "rating_per_project_name": {
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 1,
+        "Conversational search": 2,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 3,
+        "Can deep learning recognize Lego pieces?": 4,
+        "Learning and Decision Making for Traffic Control": 5,
+        "Natural Language Modelling for TV shows": 6,
+        "Machine learning-based Side-channel Analysis": 7,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 8,
+        "New Generation Iterative Prisoner's Dilemma": 9,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 10,
+        "Optimal usage of compute clusters by chaining short jobs": 11,
+        "Understanding the role of abstractions in object-oriented software systems": 12,
+        "Parsing Performance in Practice": 13,
+        "Project Ontologies for measurement instruments": 14
+      },
+      "name": "Yohan Runhaar"
+    },
+    {
+      "rating_per_project_name": {
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 1,
+        "Natural Language Modelling for TV shows": 2,
+        "Can deep learning recognize Lego pieces?": 3,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 4,
+        "New Generation Iterative Prisoner's Dilemma": 5,
+        "Optimal usage of compute clusters by chaining short jobs": 7,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 8,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 9,
+        "Conversational search": 10,
+        "Learning and Decision Making for Traffic Control": 11,
+        "Parsing Performance in Practice": 12,
+        "Machine learning-based Side-channel Analysis": 13,
+        "Project Ontologies for measurement instruments": 14,
+        "Understanding the role of abstractions in object-oriented software systems": 15
+      },
+      "name": "Katja Schmahl"
+    },
+    {
+      "rating_per_project_name": {
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 1,
+        "Can deep learning recognize Lego pieces?": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Learning and Decision Making for Traffic Control": 4,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 5,
+        "Optimal usage of compute clusters by chaining short jobs": 6,
+        "Understanding the role of abstractions in object-oriented software systems": 7,
+        "Parsing Performance in Practice": 8,
+        "Machine learning-based Side-channel Analysis": 9,
+        "Project Ontologies for measurement instruments": 10,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 11,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 12,
+        "Natural Language Modelling for TV shows": 13,
+        "Conversational search": 14
+      },
+      "name": "Stef Siekman"
+    },
+    {
+      "rating_per_project_name": {
+        "Parsing Performance in Practice": 1,
+        "Understanding the role of abstractions in object-oriented software systems": 2,
+        "Conversational search": 3,
+        "Natural Language Modelling for TV shows": 4,
+        "Learning and Decision Making for Traffic Control": 5,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 6,
+        "Project Ontologies for measurement instruments": 7,
+        "Can deep learning recognize Lego pieces?": 8,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 9,
+        "New Generation Iterative Prisoner's Dilemma": 10,
+        "Machine learning-based Side-channel Analysis": 11,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 12,
+        "Optimal usage of compute clusters by chaining short jobs": 13,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 14
+      },
+      "name": "Rohan Sobha"
+    },
+    {
+      "rating_per_project_name": {
+        "TestPlus: AI-based Test Generation for RESTful APIs": 1,
+        "Natural Language Modelling for TV shows": 2,
+        "Learning and Decision Making for Traffic Control": 3,
+        "Machine learning-based Side-channel Analysis": 4,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 5,
+        "Can deep learning recognize Lego pieces?": 6,
+        "Project Ontologies for measurement instruments": 7,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 8,
+        "Conversational search": 9,
+        "Parsing Performance in Practice": 10,
+        "Optimal usage of compute clusters by chaining short jobs": 11,
+        "Understanding the role of abstractions in object-oriented software systems": 12,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 13,
+        "New Generation Iterative Prisoner's Dilemma": 14
+      },
+      "name": "Dimitri Stallenberg"
+    },
+    {
+      "rating_per_project_name": {
+        "Optimal usage of compute clusters by chaining short jobs": 1,
+        "Can deep learning recognize Lego pieces?": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Conversational search": 4,
+        "Understanding the role of abstractions in object-oriented software systems": 5,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 6,
+        "Machine learning-based Side-channel Analysis": 7,
+        "Project Ontologies for measurement instruments": 8,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 9,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 10,
+        "Parsing Performance in Practice": 11,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 12,
+        "Learning and Decision Making for Traffic Control": 13,
+        "Natural Language Modelling for TV shows": 14
+      },
+      "name": "Nishad Tahur"
+    },
+    {
+      "rating_per_project_name": {
+        "Learning and Decision Making for Traffic Control": 1,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 2,
+        "Can deep learning recognize Lego pieces?": 3,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 4,
+        "Conversational search": 5,
+        "Optimal usage of compute clusters by chaining short jobs": 6,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 7,
+        "Natural Language Modelling for TV shows": 8,
+        "New Generation Iterative Prisoner's Dilemma": 9,
+        "Parsing Performance in Practice": 10,
+        "Understanding the role of abstractions in object-oriented software systems": 11,
+        "Project Ontologies for measurement instruments": 12,
+        "Machine learning-based Side-channel Analysis": 13,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 14
+      },
+      "name": "Pepijn Tersmette"
+    },
+    {
+      "rating_per_project_name": {
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 1,
+        "Natural Language Modelling for TV shows": 2,
+        "Can deep learning recognize Lego pieces?": 3,
+        "Learning and Decision Making for Traffic Control": 4,
+        "Project Ontologies for measurement instruments": 5,
+        "Conversational search": 6,
+        "New Generation Iterative Prisoner's Dilemma": 7,
+        "Understanding the role of abstractions in object-oriented software systems": 8,
+        "Optimal usage of compute clusters by chaining short jobs": 9,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 10,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 11,
+        "Parsing Performance in Practice": 12,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 13,
+        "Machine learning-based Side-channel Analysis": 14
+      },
+      "name": "Simon Tulling"
+    },
+    {
+      "rating_per_project_name": {
+        "Conversational search": 1,
+        "Can deep learning recognize Lego pieces?": 2,
+        "Learning and Decision Making for Traffic Control": 3,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 4,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 5,
+        "Machine learning-based Side-channel Analysis": 6,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 7,
+        "Project Ontologies for measurement instruments": 8,
+        "Optimal usage of compute clusters by chaining short jobs": 9,
+        "New Generation Iterative Prisoner's Dilemma": 10,
+        "Parsing Performance in Practice": 11,
+        "Understanding the role of abstractions in object-oriented software systems": 12,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 13,
+        "Natural Language Modelling for TV shows": 14
+      },
+      "name": "Owen Versteeg"
+    },
+    {
+      "rating_per_project_name": {
+        "Conversational search": 1,
+        "Project Ontologies for measurement instruments": 2,
+        "Understanding the role of abstractions in object-oriented software systems": 3,
+        "Optimal usage of compute clusters by chaining short jobs": 4,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 5,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 6,
+        "Learning and Decision Making for Traffic Control": 7,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 8,
+        "Natural Language Modelling for TV shows": 9,
+        "Can deep learning recognize Lego pieces?": 10,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 11,
+        "Machine learning-based Side-channel Analysis": 12,
+        "Parsing Performance in Practice": 13,
+        "New Generation Iterative Prisoner's Dilemma": 14
+      },
+      "name": "Sophie Walboomers"
+    },
+    {
+      "rating_per_project_name": {
+        "New Generation Iterative Prisoner's Dilemma": 1,
+        "Can deep learning recognize Lego pieces?": 2,
+        "Natural Language Modelling for TV shows": 3,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 4,
+        "Conversational search": 5,
+        "Optimal usage of compute clusters by chaining short jobs": 6,
+        "Project Ontologies for measurement instruments": 7,
+        "Learning and Decision Making for Traffic Control": 8,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 9,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 10,
+        "Machine learning-based Side-channel Analysis": 11,
+        "Understanding the role of abstractions in object-oriented software systems": 12,
+        "Parsing Performance in Practice": 13,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 14
+      },
+      "name": "Gijs de Jong"
+    },
+    {
+      "rating_per_project_name": {
+        "Machine learning-based Side-channel Analysis": 1,
+        "Learning and Decision Making for Traffic Control": 2,
+        "Can deep learning recognize Lego pieces?": 3,
+        "Optimal usage of compute clusters by chaining short jobs": 4,
+        "New Generation Iterative Prisoner's Dilemma": 5,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 6,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 7,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 8,
+        "Natural Language Modelling for TV shows": 9,
+        "Project Ontologies for measurement instruments": 10,
+        "Conversational search": 11,
+        "Parsing Performance in Practice": 12,
+        "Understanding the role of abstractions in object-oriented software systems": 13,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 14
+      },
+      "name": "Daan den Ouden"
+    },
+    {
+      "rating_per_project_name": {
+        "Natural Language Modelling for TV shows": 1,
+        "Learning and Decision Making for Traffic Control": 2,
+        "Machine learning-based Side-channel Analysis": 3,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 4,
+        "Can deep learning recognize Lego pieces?": 5,
+        "Project Ontologies for measurement instruments": 6,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 7,
+        "Conversational search": 8,
+        "Parsing Performance in Practice": 9,
+        "Optimal usage of compute clusters by chaining short jobs": 10,
+        "Understanding the role of abstractions in object-oriented software systems": 11,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 12,
+        "New Generation Iterative Prisoner's Dilemma": 13,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 14
+      },
+      "name": "Eric van der Toorn"
+    },
+    {
+      "rating_per_project_name": {
+        "Learning and Decision Making for Traffic Control": 1,
+        "Natural Language Modelling for TV shows": 2,
+        "New Generation Iterative Prisoner's Dilemma": 3,
+        "Can deep learning recognize Lego pieces?": 4,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 5,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 6,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 7,
+        "Understanding the role of abstractions in object-oriented software systems": 8,
+        "Machine learning-based Side-channel Analysis": 9,
+        "Optimal usage of compute clusters by chaining short jobs": 10,
+        "Parsing Performance in Practice": 11,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 12,
+        "Conversational search": 13,
+        "Project Ontologies for measurement instruments": 14
+      },
+      "name": "Chris van der Werf"
+    },
+    {
+      "rating_per_project_name": {
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 1,
+        "New Generation Iterative Prisoner's Dilemma": 2,
+        "Can deep learning recognize Lego pieces?": 3,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 4,
+        "Learning and Decision Making for Traffic Control": 5,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 6,
+        "Parsing Performance in Practice": 7,
+        "Conversational search": 8,
+        "Natural Language Modelling for TV shows": 9,
+        "Optimal usage of compute clusters by chaining short jobs": 10,
+        "Project Ontologies for measurement instruments": 11,
+        "Machine learning-based Side-channel Analysis": 12,
+        "Understanding the role of abstractions in object-oriented software systems": 13,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 14
+      },
+      "name": "Jeroen van Dijk"
+    },
+    {
+      "rating_per_project_name": {
+        "New Generation Iterative Prisoner's Dilemma": 1,
+        "Learning and Decision Making for Traffic Control": 2,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 3,
+        "Understanding the role of abstractions in object-oriented software systems": 4,
+        "Optimal usage of compute clusters by chaining short jobs": 5,
+        "Parsing Performance in Practice": 6,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 7,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 8,
+        "Machine learning-based Side-channel Analysis": 9,
+        "Natural Language Modelling for TV shows": 10,
+        "Conversational search": 11,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 12,
+        "Project Ontologies for measurement instruments": 13,
+        "Can deep learning recognize Lego pieces?": 14
+      },
+      "name": "Beryl van Gelderen"
+    },
+    {
+      "rating_per_project_name": {
+        "Natural Language Modelling for TV shows": 1,
+        "New Generation Iterative Prisoner's Dilemma": 2,
+        "Learning and Decision Making for Traffic Control": 3,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 4,
+        "Can deep learning recognize Lego pieces?": 5,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 6,
+        "Conversational search": 7,
+        "Optimal usage of compute clusters by chaining short jobs": 8,
+        "Understanding the role of abstractions in object-oriented software systems": 9,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 10,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 11,
+        "Project Ontologies for measurement instruments": 12,
+        "Machine learning-based Side-channel Analysis": 13,
+        "Parsing Performance in Practice": 14
+      },
+      "name": "Wouter van Lil"
+    },
+    {
+      "rating_per_project_name": {
+        "Natural Language Modelling for TV shows": 1,
+        "New Generation Iterative Prisoner's Dilemma": 2,
+        "Optimal usage of compute clusters by chaining short jobs": 3,
+        "Learning and Decision Making for Traffic Control": 4,
+        "Can deep learning recognize Lego pieces?": 5,
+        "Ripple: Improving a Major Decentralized Money Transfer Network": 6,
+        "Conversational search": 7,
+        "Machine learning-based Side-channel Analysis": 8,
+        "Algorithmic Comparison for the Multi-Agent Path Finding Problem with Waypoints": 9,
+        "Project Ontologies for measurement instruments": 10,
+        "Optimizing Multiple Deep Learning Models on Edge Devices": 11,
+        "TestPlus: AI-based Test Generation for RESTful APIs": 12,
+        "Parsing Performance in Practice": 13,
+        "Understanding the role of abstractions in object-oriented software systems": 14
+      },
+      "name": "Thomas van Tussenbroek"
+    }
+  ]
+}
